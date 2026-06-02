@@ -1,3 +1,3 @@
 # firstrepo 
 <br>
-createinitial git repo
+create initial git repo
